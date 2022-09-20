@@ -38,15 +38,17 @@ color:  hsl(0, 6%, 24%)
 }
 
 .imagem {
-
-float: left;
+margin: 10px;
+padding: 10px;  
 background: yellow;  
 
 }
 .texto {
-
-float: left;
-background: red;
+  
+margin: 10px;
+padding: 10px;  
+background: black;
+text-align: center
   
 }
 
@@ -62,7 +64,9 @@ background: purple;
 
 margin: 10px;
 padding: 10px;
-background: pink;  
+background: pink;
+text-align: left;
+  
 }
 
 .rodape  {
@@ -75,10 +79,7 @@ background: brown;
 }
 
 .container {
-grid-gap: 20px ;    
-display: grid;
-grid-template-columns: ;  
-grid-template-rows: ; 
-grid-template-areas: auto ;
+display: flex;
+justify-content: center;
   
 }
