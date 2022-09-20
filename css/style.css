@@ -1,11 +1,13 @@
 *{
 margin: 0;
-padding: 0;  
+padding: 0;
+box-sizing: border-box;  
   
 }
 
 body{  
-  text-align:left;
+
+text-align:left;
 font-family: 'Josefin Sans', sans-serif;
 background-color:#ffffff;
 color:hsl(0, 36%, 70%);
@@ -14,6 +16,7 @@ font-size: 16px
 }
 
 h1 {
+  
 font-family: 'Josefin Sans', sans-serif; 
 color: hsl(0, 36%, 70%)
 
@@ -21,50 +24,61 @@ color: hsl(0, 36%, 70%)
 
 
 h2 {
+  
 font-family: 'Josefin Sans', sans-serif;  
 color: hsl(0, 6%, 24%)
   
 }
 
 h3 {
-font-family: 'Josefin Sans', sans-serif;  
-color: hsl(0, 6%, 2 
   
-}
-
-.conteudo {
- display: flex;
+font-family: 'Josefin Sans', sans-serif;  
+color:  hsl(0, 6%, 24%)
   
 }
 
 .imagem {
-display: flex;
+
 float: left;
+background: yellow;  
 
 }
-
 .texto {
-display: flex;
-float: left;
 
+float: left;
+background: red;
   
 }
 
 .logo {
+
 margin: 10px;
 padding: 10px;
+background: purple;
   
 }
 
 .coming {
+
 margin: 10px;
 padding: 10px;
-  
+background: pink;  
 }
 
 .rodape  {
+  
 text-align: center;  
 margin: 10px;
 padding: 10px;
+background: brown; 
+  
+}
+
+.container {
+grid-gap: 20px ;    
+display: grid;
+grid-template-columns: ;  
+grid-template-rows: ; 
+grid-template-areas: auto ;
   
 }
