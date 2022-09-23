@@ -15,7 +15,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com](https://projeto-1-csv-19.bruhna77.repl.co/)](https://www.frontendmentor.io/solutions/html-css-mTcjvlT0QV))
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/html-css-mTcjvlT0QV)
 - Live Site URL: [Host in Replit](https://your-solution-url.com](https://projeto-1-csv-19.bruhna77.repl.co/))
 
 
@@ -35,21 +35,12 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 ```
 ```css
 
-h1 {
+.container {
   
-font-family: 'Josefin Sans', sans-serif; 
-color: hsl(0, 36%, 70%);
-
-  
-}
-
-
-h2 {
-  
-font-family: 'Josefin Sans', sans-serif;  
-color: hsl(0, 6%, 24%);
-  
-}
+width: 100%;
+height: 100vh;
+display: grid;
+grid-template-columns: 60% 40%;
 
 
 ```
