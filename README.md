@@ -11,8 +11,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Screenshot
 
-![](img/aparenciafinal.jpg)
-
+[Coming Soon](img/aparenciafinal.jpg)
 
 ### Links
 
@@ -51,7 +50,7 @@ font-family: 'Josefin Sans', sans-serif;
 color: hsl(0, 6%, 24%);
   
 }
-}
+
 
 ```
 
@@ -64,6 +63,6 @@ color: hsl(0, 6%, 24%);
 
 ## Acknowledgments
 
-Pedro Marins
-Walter Souza
-Comunidade Code
+- Pedro Marins
+- Walter Souza
+- Comunidade Code
