@@ -16,7 +16,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/html-css-mTcjvlT0QV)
-- Live Site URL: [Host in Replit](https://your-solution-url.com](https://projeto-1-csv-19.bruhna77.repl.co/))
+- Live Site URL: [Host in Replit](https://projeto-1-csv-19.bruhna77.repl.co/)
 
 
 ### Built with
@@ -56,4 +56,5 @@ grid-template-columns: 60% 40%;
 
 - Pedro Marins
 - Walter Souza
+- Lucca Secco
 - Comunidade Code
