@@ -11,7 +11,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Screenshot
 
-[Coming Soon](https://github.com/Bruhna77/PROJETO-1---CSV-19/blob/main/img/aparenciafinal.png)
+![Aparência Final](https://user-images.githubusercontent.com/98266939/192098756-617e2b6f-f1d9-4677-83b9-555a30dfcf78.png)
 
 ### Links
 
